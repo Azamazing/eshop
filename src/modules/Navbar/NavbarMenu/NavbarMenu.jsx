@@ -1,6 +1,6 @@
 /** @jsxImportSource @emotion/react */
 import { NavLink } from "react-router-dom";
-import navbarMenuItems from "./NavbarMenuItems";
+import navbarMenuItems from "./navbarMenuItems";
 import { navbarMenuStyle, navbarMenuLinkStyle } from "./styles";
 import { useTheme } from "@emotion/react";
 const NavbarMenu = () => {
